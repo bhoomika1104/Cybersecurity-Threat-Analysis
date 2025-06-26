@@ -1,0 +1,14 @@
+tensorflow
+openai
+numpy
+pandas
+scikit-learn
+gym
+docker
+kubernetes
+elasticsearch
+logstash
+kibana
+fastapi
+uvicorn
+streamlit
